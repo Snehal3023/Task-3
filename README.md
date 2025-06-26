@@ -28,5 +28,5 @@ Enforce message signing in the host's configuration. On Windows, this is found i
 ### 8. Scan result
 ![Generated Report](https://github.com/user-attachments/assets/54a32ad2-9b9e-4155-9490-9e6abfaeafd0)
 
-
+https://github.com/Snehal3023/Task-3/blob/main/snehal_nhxfow.pdf
       
